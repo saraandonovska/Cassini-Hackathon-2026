@@ -232,3 +232,13 @@ Upload `water_quality_notebook.ipynb` to the [Copernicus JupyterHub](https://jup
 - Visualize NDWI and NDCI satellite maps
 - Run batch analysis across multiple water bodies
 - Call the FastAPI backend directly from the notebook
+
+## Team
+
+- Ognen Mladenovski - FINKI
+- Hristina Gjorgjievska - FINKI
+- Marko Mijoski - FINKI
+- Marija Misajlovska - FINKI
+- Tamara Stojanoska - FINKI
+- Sara Andonovska - FINKI
+- Ana Marija Utevska - AFS
